@@ -1,0 +1,49 @@
+div{
+	background: grey;
+	border: rgb();
+}
+div h1{
+	font-style: cursive;
+	font-family: cursive;
+}
+h1{
+	font-family: cursive;
+}
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+  float: right;
+}
+
+.contact-btn a {
+  cursor: pointer;
+  margin-left: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: left;
+
+}
+
+.contact-btn a:active {
+  top:2px;
+
+}
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #204156;
+  text-decoration: none;
+}
